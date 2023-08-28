@@ -1,4 +1,18 @@
+# Max Luo's First CS193 Homework
 ## Welcome to GitHub Pages
+
+## Graded Part :)
+### Favorite things about CS193
+- It's fun and interactive with the TAs
+- There are no exams
+- You learn practical skills that will apply to any CS job
+
+- [ ] <- for fun
+
+<br>
+
+`This text is code style` <br>
+**_Bolded and Italcized_**
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
